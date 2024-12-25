@@ -12,3 +12,5 @@
 
 3. **Create a Table with LineString Geometry**
    - Follow the same steps to create a table with a spatial column of type `LineString`, insert data using QGIS, and verify it in `pgAdmin`.
+#### Shipfile's link : 
+- https://maps.leegov.com/datasets/80708a2f5f56426f94c8be97c182176b/about
